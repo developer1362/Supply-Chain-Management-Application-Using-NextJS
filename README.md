@@ -17,7 +17,7 @@ This is a NextJS application designed to manage suppliers,products and orders. I
 
  - NextJS 15
  - MongoDB
- - Tailwind
+ - Tailwind CSS
  - Typescript
 
 
